@@ -1,3 +1,4 @@
+![Optional Text](../master/img/ss.png)
 # S-sms
 Tools Spam Sms Unlimited<br>Make nya ngotak ya, jgn sekaligus banyak :)
 
